@@ -25,6 +25,6 @@ BICA was written in Java,  IDE is IntelliJ IDEA, and build tool is gradle with k
 
 Future improvement would be: 
   1. Tab indexing and menu item interaction: menu item enable/disable according to current tab choice. 
-	2. Data field configuration: date field was hard coding, it may be put into property for flexibility.  
-	3. Better looking and feel: 
-	4. Logging refine: current logging is coarse only for system error. It may be refined into operations 
+  2. Data field configuration: date field was hard coding, it may be put into property for flexibility.
+  3. Better looking and feel: 
+  4. Logging refine: current logging is coarse only for system error. It may be refined into operations 
