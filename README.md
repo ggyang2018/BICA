@@ -6,7 +6,7 @@ contact: ggyang2018@gmail.com
 License: GPL as open source  
 
 
-BICA (Booking Invoice Confirmation App) is rich client, stand-alone Java/Swing desktop toolkit, simple to user (5 minutes training) for non-computer person and zero management. The Details description is on the BICA_Description.pdf file within the project. Here is only a summary in following sections.  
+BICA (Booking Invoice Confirmation App) is rich client, stand-alone Java/Swing desktop toolkit, simple to user (5 minutes training) for non-computer person and zero management. The Details description is on the BICA_Description.pdf file within the project. Here is only a summary in following sections. The details include pictures can be seen the document: BICA_Description.pdf.  
 
 Liberton Kirk uses SKEDDA's web application to book event activities of kirk halls. A kirk staff collects booking information from a client, and submit to SKEDDA. A booking form could be a single booking, multiple bookings,  or pre-booking of whole year. Later on the SKEDDA can output an excel file in the terms of chosen time period, which contains all clients' booking information in the period.    
 
