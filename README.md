@@ -27,4 +27,14 @@ Future improvement would be:
   1. Tab indexing and menu item interaction: menu item enable/disable according to current tab choice. 
   2. Data field configuration: date field was hard coding, it may be put into property for flexibility.
   3. Better looking and feel: 
-  4. Logging refine: current logging is coarse only for system error. It may be refined into operations 
+  4. Logging refine: current logging is coarse only for system error. It may be refined into operations
+
+
+![screen1](https://github.com/user-attachments/assets/d59d56a7-1e68-41a5-85ed-f90421274291)
+
+
+![screen3](https://github.com/user-attachments/assets/cb539e09-33f7-48b3-b946-fb804ec8ec40)
+
+
+
+![screen2](https://github.com/user-attachments/assets/e8e199f2-bc16-44bc-ab3d-bf3ba718dcb2)
